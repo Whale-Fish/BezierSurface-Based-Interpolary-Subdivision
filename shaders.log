@@ -1,0 +1,28 @@
+VERTEX SHADER COMPILE INFO:
+
+WARNING: 0:25: '' :  #version directive missing
+
+
+
+FRAGMENT SHADER COMPILE INFO:
+
+WARNING: 0:25: '' :  #version directive missing
+WARNING: 0:51: 'assign' : implicit type conversion allowed from GLSL 1.20 
+ERROR: 0:52: 'assign' : l-value required "Cs" (cannot modify a varying)
+WARNING: 0:53: 'assign' : implicit type conversion allowed from GLSL 1.20 
+ERROR: 0:53: '&&' : wrong operand types no operation '&&' exists that takes a left-hand operand of type 'uniform highp int' and a right operand of type 'lowp bool' (or there is no acceptable conversion)
+ERROR: 0:47: '' : boolean expression expected 
+WARNING: 0:61: 'assign' : implicit type conversion allowed from GLSL 1.20 
+ERROR: 0:62: 'assign' : l-value required "Cs" (cannot modify a varying)
+WARNING: 0:63: 'assign' : implicit type conversion allowed from GLSL 1.20 
+ERROR: 0:63: '&&' : wrong operand types no operation '&&' exists that takes a left-hand operand of type 'uniform highp int' and a right operand of type 'lowp bool' (or there is no acceptable conversion)
+ERROR: 0:57: '' : boolean expression expected 
+WARNING: 0:71: 'assign' : implicit type conversion allowed from GLSL 1.20 
+ERROR: 0:72: 'assign' : l-value required "Cs" (cannot modify a varying)
+WARNING: 0:73: 'assign' : implicit type conversion allowed from GLSL 1.20 
+ERROR: 0:73: '&&' : wrong operand types no operation '&&' exists that takes a left-hand operand of type 'uniform highp int' and a right operand of type 'lowp bool' (or there is no acceptable conversion)
+ERROR: 0:67: '' : boolean expression expected 
+WARNING: 0:78: 'assign' : implicit type conversion allowed from GLSL 1.20 
+
+
+
